@@ -1,0 +1,24 @@
+{
+    "cards": {
+        "ABC123-DEF456": {
+            "status": "active",
+            "expire": "2026-12-31",
+            "device": null,
+            "bind_limit": 1
+        },
+        "XYZ789-TEST001": {
+            "status": "active",
+            "expire": "2026-06-30",
+            "device": null,
+            "bind_limit": 1
+        },
+        "BANNED-KEY-9999": {
+            "status": "banned",
+            "expire": "2099-12-31",
+            "device": null,
+            "bind_limit": 0
+        }
+    },
+    "version": "1.0",
+    "update_time": "2026-06-13"
+}
